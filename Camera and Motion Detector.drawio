@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T01:06:31.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="aA9wbPHOT0WGRFav9CoJ" version="15.7.4" type="github"><diagram id="AEDi9TwQ1VaAHmFlA1zu" name="Page-1">5VrbbqMwEP0aHlthjEnymE267WpbqdpWe3l0g5tYAhwZ57Zfv2YxBNukbRCXSnlp8eALnHPGnhniwFm8v+V4vXpgIYkczw33Dpw7njfxAvk3MxxyA0IgNyw5DXNTxfBE/xJldJV1Q0OSah0FY5Gga924YElCFkKzYc7ZTu/2yiJ91TVeEsvwtMCRbf1FQ7HKrWPkHu13hC5XxcrAVXdiXHRWhnSFQ7armOCNA2ecMZFfxfsZiTLsClzycV9P3C0fjJNEfGTAlk7Db/fR5jW9+n43uvt5u3Ofr9QsWxxt1As7XoDjtQO/JC9p9m+GY8KxegVxKHDhbJOEJJvalZ12KyrI0xovsrs7KQRpW4k4ki0gL9UihAuyP/n0oMREaomwmAh+kF3UAK/AVelorJq7IymgQHpVIcRXNqx0sCxnPkIlLxRaZyDnWcg9MEFZIm1zIqQUGR8cNBTooHlBDWpun6jBGr0ZIJEknGaOK1sJS4gOio5gPpaElgu/C1AFAFTz/oWNkwgLutWnrwNFrfDIqFy4xB/4Ov5gbOCasg1fEDWq6rvGRKb6S6kXEwnMl0RYE0kg8aHSbZ11SN944JGxDtL2FHmRz3gUQIlpc034rWqC7Kn4nV1fI9X6U7kz31cbhzN1JJ/pP2FvbaiuM6DgPIO/8hg9W3CmED4ouLY0gS5qn4BBS/sE9IalLbgo2hDQ0YaoIW3mOQ3dfmkbXRRtgeEkvon2R2kzJ+qbtvFF0TYyYiA4akpbQ287N5gKxsY6fg/B1MTSxH3GBE2Wljb6zkaAGcTW5HCTGv3ArpKRYvvWcrgtiYnifdB81zhbyjLCewlvd2jZtYJnGpPhs1zoond11TNUdcWBTyIs3z8RtFTRgjVodVYTAHZR4NPsWWh0IlYYTlt2ujzlZPgC3cnjebAKHbCTyE+BFLQ0NbSk2k3bygpMtf5yPSrKMd2XYFA9/D3l8khnt2mUaqbyZkmg49wCXFZOaKbyIGiJtknPtNnxf/EBx50uJEA4/0Yx9LFqwl0XhPh9HhYFba1XoaFX2Qav3Gv37X0wazwSLgNrIUPr1vdGb1Anm+ise43rZcZEoGcvK7RREQuOMI/TwR3LCC0gstyqLsPuzqsu63uf9ZmuaWURGCUq01G61redY/xgLyx7wMcNTzd0+DTWLK4NXx/xLuublVlFbRzoWky2JnbZPP68Ju9+/I0SvPkH</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-16T18:21:19.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="FdqlXVV_FFeadByqDXpl" version="15.7.3" type="github">
+  <diagram id="AEDi9TwQ1VaAHmFlA1zu" name="Page-1">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_6JpONXqSh-gxluHiXGR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="viAdILlufs-KH7HVGw0T-1" target="_6JpONXqSh-gxluHiXGR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viAdILlufs-KH7HVGw0T-1" value="&amp;nbsp;Camera" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6JpONXqSh-gxluHiXGR-4" value="detects" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="viAdILlufs-KH7HVGw0T-2" target="viAdILlufs-KH7HVGw0T-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6JpONXqSh-gxluHiXGR-7" value="scans" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="viAdILlufs-KH7HVGw0T-2" target="viAdILlufs-KH7HVGw0T-14">
+          <mxGeometry x="-0.1429" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viAdILlufs-KH7HVGw0T-2" value="Motion Detector" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6JpONXqSh-gxluHiXGR-9" value="triggers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="viAdILlufs-KH7HVGw0T-9" target="viAdILlufs-KH7HVGw0T-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viAdILlufs-KH7HVGw0T-9" value="Lighting" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6JpONXqSh-gxluHiXGR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="viAdILlufs-KH7HVGw0T-10" target="_6JpONXqSh-gxluHiXGR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6JpONXqSh-gxluHiXGR-13" value="triggers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="viAdILlufs-KH7HVGw0T-10" target="viAdILlufs-KH7HVGw0T-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viAdILlufs-KH7HVGw0T-10" value="Movement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6JpONXqSh-gxluHiXGR-12" value="after seeing player for more than 1 second, triggers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="viAdILlufs-KH7HVGw0T-11" target="viAdILlufs-KH7HVGw0T-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viAdILlufs-KH7HVGw0T-11" value="Timer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="410" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6JpONXqSh-gxluHiXGR-5" value="adjusts" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="viAdILlufs-KH7HVGw0T-12" target="viAdILlufs-KH7HVGw0T-13">
+          <mxGeometry x="-0.2" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viAdILlufs-KH7HVGw0T-12" value="Movement" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="viAdILlufs-KH7HVGw0T-13" value="Lighting" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="350" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="viAdILlufs-KH7HVGw0T-14" value="Area" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6JpONXqSh-gxluHiXGR-8" value="scans" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="viAdILlufs-KH7HVGw0T-15" target="_6JpONXqSh-gxluHiXGR-2">
+          <mxGeometry x="0.0769" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viAdILlufs-KH7HVGw0T-15" value="Area" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="240" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="viAdILlufs-KH7HVGw0T-22" value="alarms" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="277.5" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6JpONXqSh-gxluHiXGR-6" value="triggers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="viAdILlufs-KH7HVGw0T-24" target="viAdILlufs-KH7HVGw0T-12">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viAdILlufs-KH7HVGw0T-24" value="Robot Pursuit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6JpONXqSh-gxluHiXGR-1" value="Motion Detector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_6JpONXqSh-gxluHiXGR-2" value="&amp;nbsp;Camera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
