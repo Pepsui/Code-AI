@@ -1,21 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T00:59:29.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="MKZCc1IcBEurYSYa9xO_" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T01:23:01.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="nnH1zXkc6jCakzmeQ_Xe" version="15.7.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2272" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Cameras" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="150" width="100" height="300" as="geometry" />
+          <mxGeometry x="20" y="150" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="130" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="vlGZlSDKLQWc9GM1L02--11" value="if player is seen for more than 1 sec&amp;nbsp;" style="endArrow=none;html=1;rounded=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" target="sIRMj_rUHxEw1dp95H_H-10">
+        <mxCell id="vlGZlSDKLQWc9GM1L02--11" value="if player is seen for more than 1 sec&amp;nbsp;" style="endArrow=blockThin;html=1;rounded=0;endFill=1;entryX=-0.1;entryY=0.931;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" target="sIRMj_rUHxEw1dp95H_H-11">
           <mxGeometry x="0.0225" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55" y="280" as="sourcePoint" />
             <mxPoint x="105" y="230" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vlGZlSDKLQWc9GM1L02--15" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+          <mxGeometry x="45" y="50" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Doors" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="150" width="100" height="300" as="geometry" />
@@ -79,10 +82,26 @@
           <mxGeometry x="160" y="150" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="vlGZlSDKLQWc9GM1L02--9" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="vlGZlSDKLQWc9GM1L02--8">
-          <mxGeometry x="45" y="75" width="10" height="165" as="geometry" />
+          <mxGeometry x="45" y="120" width="10" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="vlGZlSDKLQWc9GM1L02--10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vlGZlSDKLQWc9GM1L02--10" value="Director" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vlGZlSDKLQWc9GM1L02--12" value="when player is detected" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.2;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="vlGZlSDKLQWc9GM1L02--13" target="vlGZlSDKLQWc9GM1L02--9">
+          <mxGeometry x="-0.0079" y="13" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="370" as="sourcePoint" />
+            <mxPoint x="200" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vlGZlSDKLQWc9GM1L02--13" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlGZlSDKLQWc9GM1L02--16" value="player not seen after camera looks in area for 3 seconds" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;" edge="1" parent="1" source="vlGZlSDKLQWc9GM1L02--15" target="sIRMj_rUHxEw1dp95H_H-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="230" as="sourcePoint" />
+            <mxPoint x="140" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
