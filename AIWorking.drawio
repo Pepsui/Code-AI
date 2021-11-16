@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T02:05:45.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="mY3Z12zCkKHKMeCTBH1c" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T02:09:48.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="qfVLrM4u_wM2_BF4pRXG" version="15.7.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2272" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,6 +14,13 @@
           <mxGeometry x="0.1765" y="12" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-60" y="72" as="sourcePoint" />
             <mxPoint x="46" y="72" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vlGZlSDKLQWc9GM1L02--29" value="player hits detector" style="endArrow=classic;html=1;rounded=0;entryX=0.1;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" target="vlGZlSDKLQWc9GM1L02--9">
+          <mxGeometry x="-0.0291" y="7" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="117" as="sourcePoint" />
+            <mxPoint x="30" y="110" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
