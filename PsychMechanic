@@ -1,10 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T00:09:48.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="KOZBk9JaUjwAg1V6J_MC" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T01:37:27.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="wwI7J9l8vCIPVanZAnWN" version="15.7.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BDzBU1M_KcTXa6LkxGTx-1" value="Player Psych: 100%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BDzBU1M_KcTXa6LkxGTx-11" value="gives time" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BDzBU1M_KcTXa6LkxGTx-1" target="BDzBU1M_KcTXa6LkxGTx-8">
+          <mxGeometry x="0.07" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDzBU1M_KcTXa6LkxGTx-1" value="Player Psyche: 100%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BDzBU1M_KcTXa6LkxGTx-4" value="squared tick per second" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BDzBU1M_KcTXa6LkxGTx-2" target="BDzBU1M_KcTXa6LkxGTx-1">
@@ -23,6 +28,18 @@
         </mxCell>
         <mxCell id="BDzBU1M_KcTXa6LkxGTx-5" value="Robot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BDzBU1M_KcTXa6LkxGTx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BDzBU1M_KcTXa6LkxGTx-7" target="BDzBU1M_KcTXa6LkxGTx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BDzBU1M_KcTXa6LkxGTx-7" value="Alarm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BDzBU1M_KcTXa6LkxGTx-12" value="checks percent" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BDzBU1M_KcTXa6LkxGTx-8" target="BDzBU1M_KcTXa6LkxGTx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BDzBU1M_KcTXa6LkxGTx-8" value="Panic Mode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
